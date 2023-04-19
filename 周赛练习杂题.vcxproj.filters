@@ -24,5 +24,11 @@
     <ClCompile Include="3696构造有向无环图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="01背包问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥A题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
