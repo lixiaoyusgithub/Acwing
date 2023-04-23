@@ -30,5 +30,8 @@
     <ClCompile Include="蓝桥A题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="树的中心.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
